@@ -1,6 +1,6 @@
 # Selenium with S3 Bucket Integration
 
-This project publishes Selenium test artifacts to an Amazon S3 Bucket account. 
+This project publishes Selenium test artifacts to an Amazon S3 Bucket. 
 
 ## Prerequisites
 
